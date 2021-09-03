@@ -155,7 +155,7 @@ In Review
 
 - If this resolves to...
 
-  [✅] `'TRUE'` Looking at an unlocked screen with full interactibility
+  [✅] `'TRUE'`
 
   [🥳] Congratulations! You've succeeded!
 
